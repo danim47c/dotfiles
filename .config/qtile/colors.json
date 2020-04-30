@@ -1,0 +1,14 @@
+{
+  "light": "#282C34",
+  "dark": "#21252B",
+  "primary": "#d7dae0",
+  "secondary": "#727A7D",
+  "lighter": "#F6F5F4",
+  "darker": "#343A36",
+  "r": "#ff0000",
+  "g": "#00ff00",
+  "b": "#00f",
+  "y": "#ff0",
+  "m": "#f0f",
+  "x": "#0ff"
+}

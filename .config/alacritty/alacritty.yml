@@ -1,0 +1,44 @@
+background_opacity: 1
+
+font:
+  bold:
+    family: "Source Code Pro"
+  italic:
+    family: "Source Code Pro"
+  normal:
+    family: "Source Code Pro"
+    style: Regular
+  size: 14.0
+window:
+  padding:
+    x: 5
+    y: 5
+
+colors:
+  # Default colors
+  primary:
+    background: '0x21252b'
+    foreground: '0xf6f5f4'
+  # Normal colors
+  normal:
+    # NOTE: Use '#131613' for the `black` color if you'd like to see
+    # black text on the background.
+    black:   '#282c34'
+    red:     '#e06c75'
+    green:   '#98c379'
+    yellow:  '#d19a66'
+    blue:    '#61afef'
+    magenta: '#c678dd'
+    cyan:    '#56b6c2'
+    white:   '#abb2bf'
+
+  # Bright colors
+  bright:
+    black:   '#5c6370'
+    red:     '#e06c75'
+    green:   '#98c379'
+    yellow:  '#d19a66'
+    blue:    '#61afef'
+    magenta: '#c678dd'
+    cyan:    '#56b6c2'
+    white:   '#ffffff'
