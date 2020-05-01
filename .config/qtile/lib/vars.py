@@ -3,7 +3,7 @@ from libqtile import layout
 
 from typing import List  # noqa: F401
 
-auto_fullscreen = False
+auto_fullscreen = True
 
 bring_front_click = True
 

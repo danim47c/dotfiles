@@ -59,7 +59,8 @@ def bottom_widgets(colors: dict):
   widgets.extend([
     widget.clipboard.Clipboard(
       **base,
-      timeout=None
+      timeout=30,
+      max_width=64
     )
   ])
   

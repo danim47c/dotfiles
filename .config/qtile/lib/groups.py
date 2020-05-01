@@ -14,7 +14,7 @@ groups = [
   ),
   Group(
     'DEV',
-    spawn='code -n'
+    spawn='code'
   ),
   Group(
     'TERM',
